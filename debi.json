@@ -1,0 +1,22 @@
+{
+    "version": "0.1.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/debipro/cli/releases/download/v0.1.4/debi_0.1.4_windows_x86_64.zip",
+            "bin": [
+                "debi.exe"
+            ],
+            "hash": "5248b66d6495d56e7a848f4aeb55cab3cc61fe2ec03e1dafc9fc45ff3ca559c6"
+        },
+        "arm64": {
+            "url": "https://github.com/debipro/cli/releases/download/v0.1.4/debi_0.1.4_windows_arm64.zip",
+            "bin": [
+                "debi.exe"
+            ],
+            "hash": "4704460084aa0381e62d961f6b840f86136b6f81495ffbb54103c4eefc314700"
+        }
+    },
+    "homepage": "https://debi.pro",
+    "license": "MIT",
+    "description": "Command-line interface for the Debi API"
+}
