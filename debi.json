@@ -1,19 +1,19 @@
 {
-    "version": "0.1.7",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/debipro/cli/releases/download/v0.1.7/debi_0.1.7_windows_x86_64.zip",
+            "url": "https://github.com/debipro/cli/releases/download/v0.2.0/debi_0.2.0_windows_x86_64.zip",
             "bin": [
                 "debi.exe"
             ],
-            "hash": "2f781440afd6e27131e6f0c0ab44e0cf8cdbef8a43d84a7e76cfa95fac8833a0"
+            "hash": "1f36426879a81ebd78a26649efa266e83ebed1a4804394de3ac28429e15a799f"
         },
         "arm64": {
-            "url": "https://github.com/debipro/cli/releases/download/v0.1.7/debi_0.1.7_windows_arm64.zip",
+            "url": "https://github.com/debipro/cli/releases/download/v0.2.0/debi_0.2.0_windows_arm64.zip",
             "bin": [
                 "debi.exe"
             ],
-            "hash": "f45284dd800335ec5919690c8b09b1690c9d5ae309555e2a5e74cc10cbcec218"
+            "hash": "d63b47bff214801daf34ffa34910eea073183f61db817bf5f1fcfb3591690fe8"
         }
     },
     "homepage": "https://debi.pro",
